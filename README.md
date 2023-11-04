@@ -1,4 +1,4 @@
-### Hi 👋, I'm Oumar Ammar
+### Hi 👋, I'm Omar Ammar
 
 - 🌱 I am currently studying as a Software Engineer. 🖥️
 - 📫 How to reach me oammar198@gmail.com
