@@ -4,7 +4,7 @@
 - 📫 How to reach me oammar198@gmail.com
 - 📝 I am often active on [LinkedIn](https://www.linkedin.com/in/oumar-a-8a2491253/).
 - 🧡   My Passions
-- 💃 Swing - :trollface: Gaming - :muscle: Fitness - 🥠 Cooking 
+- ⚡ Swing - :trollface: Gaming - :muscle: Fitness - 🥠 Cooking 
 
 
 
