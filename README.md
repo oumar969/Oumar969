@@ -2,7 +2,7 @@
 
 - 🌱 I am currently studying as a Software Engineer. 🖥️
 - 📫 How to reach me oammar198@gmail.com
-- 📝 I am often active on [LinkedIn](https://www.linkedin.com/in/oumar-a-8a2491253/).
+- 📝 I am often active on [LinkedIn](https://www.linkedin.com/in/omar-a-8a2491253/).
 - 🧡   My Passions
 - ⚡  Gaming - :muscle: Fitness - 🥠 Cooking 
 
