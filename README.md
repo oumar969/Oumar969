@@ -75,16 +75,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumar969&theme=dark&show_icons=true&hide_border=true" alt="oumar969's GitHub Stats" />
+  <a href="https://github.com/oumar969">
+    <img src="https://github-readme-stats.vercel.app/api?username=oumar969&show_icons=true&count_private=true&hide=&hide_title=true&theme=dark" />
+  </a>
 </div>
-
-###
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oumar969&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/oumar969">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oumar969&hide=&hide_title=true&layout=donut&theme=dark" />
+  </a>
 </div>
+
+###
+
+<img src="https://activity-graph.herokuapp.com/graph?username=oumar969&theme=react-dark&bg_color=20232a&hide_border=true" />
 
 ###
 
