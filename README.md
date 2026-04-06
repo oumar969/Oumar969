@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Omar Ammar from Norway 🇳🇴<br><br>- 🌱 Currently studying Software Engineering 🖥️<br>- 📫 Reach me at oammar198@gmail.com<br>- 📝 Active on LinkedIn and GitHub<br>- 🧡 My passions: Gaming, Fitness, and Cooking</p>
+<p align="left">I'm Omar Ammar from Denmark 🇩🇰<br><br>- 🌱 Currently studying Software Engineering 🖥️<br>- 📫 Reach me at oammar198@gmail.com<br>- 📝 Active on LinkedIn and GitHub<br>- 🧡 My passions: Gaming, Fitness, and Cooking</p>
 
 ###
 
