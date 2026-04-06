@@ -164,17 +164,13 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/oumar969">
-    <img src="https://github-readme-stats.vercel.app/api?username=oumar969&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&border_radius=5" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=oumar969&show_icons=true&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&border_color=30363d" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://github.com/oumar969">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oumar969&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&border_radius=5&layout=compact" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oumar969&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d" />
 </div>
 
 ###
