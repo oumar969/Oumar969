@@ -64,6 +64,96 @@
 
 ###
 
+<h3 align="left">📚 Technical Skills</h3>
+
+###
+
+**Languages**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+</div>
+
+**Web & Frontend**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+</div>
+
+**Backend & API**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring boot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+</div>
+
+**Data & Infrastructure**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="50" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+</div>
+
+**Architecture & Methods**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jira" height="50" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo"  />
+</div>
+
+**Testing & Quality**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+</div>
+
+###
+
 <h3 align="left">🔥 My Stats :</h3>
 
 ###
