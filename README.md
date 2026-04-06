@@ -165,7 +165,7 @@
 
 <div align="center">
   <a href="https://github.com/oumar969">
-    <img src="https://github-readme-stats.vercel.app/api?username=oumar969&show_icons=true&count_private=true&hide=&hide_title=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=oumar969&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&border_radius=5" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -173,7 +173,7 @@
 
 <div align="center">
   <a href="https://github.com/oumar969">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oumar969&hide=&hide_title=true&layout=donut&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oumar969&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&border_radius=5&layout=compact" alt="Top Languages" />
   </a>
 </div>
 
