@@ -123,11 +123,17 @@
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="powerbi logo"  />
 </div>
 
 **Architecture & Methods**
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
@@ -135,6 +141,10 @@
   <img src="https://skillicons.dev/icons?i=jira" height="50" alt="jira logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo"  />
   <img width="12" />
@@ -170,10 +180,6 @@
 ###
 
 <img src="https://activity-graph.herokuapp.com/graph?username=oumar969&theme=react-dark&bg_color=20232a&hide_border=true" />
-
-###
-
-<img src="https://raw.githubusercontent.com/oumar969/oumar969/output/snake.svg" alt="Snake animation" />
 
 ###
 
