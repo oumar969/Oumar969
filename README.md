@@ -5,6 +5,9 @@
 ###
 
 <div align="center">
+  <a href="https://oumar969.github.io/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/omar-a-8a2491253/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
