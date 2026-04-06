@@ -173,6 +173,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/oumar969/oumar969/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **oumar969/Oumar969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
