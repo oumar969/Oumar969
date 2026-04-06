@@ -163,18 +163,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumar969&show_icons=true&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&border_color=30363d" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oumar969&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d" />
-</div>
-
-###
-
 <img src="https://activity-graph.herokuapp.com/graph?username=oumar969&theme=react-dark&bg_color=20232a&hide_border=true" />
 
 ###
