@@ -135,6 +135,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="heroku logo"  />
 </div>
 
 ###
