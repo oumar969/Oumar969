@@ -31,14 +31,12 @@ focus:
   - Production-ready software for real users
 
 currently:
-  - Building backend services and data pipelines at HFFIA
   - Developing and improving real-world software products
   - Growing within cloud and scalable data infrastructure
 ```
 
 I am a Software Engineer specialized in Data Engineering from VIA University College. I enjoy turning complex requirements and raw data into reliable products, APIs, pipelines and analytics-ready systems.
 
-- 💼 Junior Software Engineer at **HFFIA**
 - 🎓 B.Eng. Software Technology — **Data Engineering**, VIA University College
 - 🧪 Former Software Developer Intern at **TinyMobileRobots**
 - 🌍 I speak Danish, English and Arabic
