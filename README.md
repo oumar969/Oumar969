@@ -1,182 +1,141 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:6d3cc7,100:a76cff&height=210&section=header&text=Oumar%20Ammar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=18" alt="Oumar Ammar — Software Engineer" />
+
+  <a href="https://oumar969.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-a76cff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=16121f" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omar-a-8a2491253/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16121f" alt="LinkedIn" /></a>
+  <a href="mailto:oammar198@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=16121f" alt="Email" /></a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=oumar969&label=Profile%20views&color=a76cff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/oumar969?label=Followers&style=flat-square&color=6d3cc7&labelColor=16121f" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/oumar969?affiliations=OWNER&style=flat-square&color=a76cff&labelColor=16121f" alt="GitHub stars" />
+
 </div>
 
-###
+---
+
+## 👋 About me
+
+```yaml
+name: Oumar Ammar
+location: Horsens, Denmark
+role: Software Engineer
+specialization: Data Engineering
+
+focus:
+  - Full-stack and backend development
+  - ETL pipelines and dimensional data modelling
+  - Real-time web and mobile systems
+  - Production-ready software for real users
+
+currently:
+  - Building backend services and data pipelines at HFFIA
+  - Developing and improving real-world software products
+  - Growing within cloud and scalable data infrastructure
+```
+
+I am a Software Engineer specialized in Data Engineering from VIA University College. I enjoy turning complex requirements and raw data into reliable products, APIs, pipelines and analytics-ready systems.
+
+- 💼 Junior Software Engineer at **HFFIA**
+- 🎓 B.Eng. Software Technology — **Data Engineering**, VIA University College
+- 🧪 Former Software Developer Intern at **TinyMobileRobots**
+- 🌍 I speak Danish, English and Arabic
+- 📫 Reach me at **[oammar198@gmail.com](mailto:oammar198@gmail.com)**
+
+---
+
+## 🚀 Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧼 <a href="https://rentop.dk">Rentop</a></h3>
+      <p>Production platform for a Danish cleaning business with booking, administration, invoicing, gift cards, analytics and SEO.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>Turso</code> <code>Vercel</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/oumar969/Lumo-app">Lumo</a></h3>
+      <p>Private creative collaboration app with a live canvas, shared notes, presence and invite-only spaces.</p>
+      <p><code>React Native</code> <code>Firebase</code> <code>Node.js</code> <code>Real-time</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 <a href="https://github.com/Zenbax/for-hinanden-frontend">For Hinanden</a></h3>
+      <p>Community help platform connecting people with nearby volunteers. Reached 400+ users during testing.</p>
+      <p><code>Flutter</code> <code>ASP.NET Core</code> <code>PostgreSQL</code> <code>Firebase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎾 <a href="https://padel-score-ab0b5.web.app">Padel Score</a></h3>
+      <p>Installable real-time PWA with a complete scoring engine, live spectators, match analytics and TV mode.</p>
+      <p><code>Flutter</code> <code>Firestore</code> <code>Riverpod</code> <code>PWA</code></p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <a href="https://oumar969.github.io/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-a-8a2491253/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:oammar198@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/om.r.rr/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+  <a href="https://oumar969.github.io/#work"><img src="https://img.shields.io/badge/Explore%20all%20projects-My%20Portfolio-a76cff?style=for-the-badge&labelColor=16121f" alt="Explore projects" /></a>
 </div>
 
-###
+---
+
+## 🛠️ Tech stack
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=oumar969.oumar969&"  />
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=cs,python,java,ts,js,cpp,c&theme=dark)](https://skillicons.dev)
+
+### Backend & full-stack
+
+[![Backend](https://skillicons.dev/icons?i=dotnet,spring,nodejs,nextjs,react,graphql&theme=dark)](https://skillicons.dev)
+
+### Data & databases
+
+[![Data](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase&theme=dark)](https://skillicons.dev)
+
+`ETL Pipelines` · `Dimensional Modelling` · `Star Schema` · `SCD` · `Data Warehousing` · `Power BI` · `Databricks`
+
+### Cloud & tools
+
+[![Tools](https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,postman,vscode&theme=dark)](https://skillicons.dev)
+
 </div>
 
-###
+---
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">I'm Omar Ammar from Denmark 🇩🇰<br><br>- 🌱 Currently studying Software Engineering 🖥️<br>- 📫 Reach me at oammar198@gmail.com<br>- 📝 Active on LinkedIn and GitHub<br>- 🧡 My passions: Gaming, Fitness, and Cooking</p>
-
-###
-
-<h3 align="left">🛠 Quick Start</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
-</div>
-
-###
-
-<h3 align="left">📚 Technical Skills</h3>
-
-###
-
-**Languages**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-</div>
-
-**Web & Frontend**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
-</div>
-
-**Backend & API**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dotnet logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring boot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-</div>
-
-**Data & Infrastructure**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="50" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="powerbi logo"  />
-</div>
-
-**Architecture & Methods**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jira" height="50" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="heroku logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
+## 📊 GitHub analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=oumar969&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=oumar969&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a76cff&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true" alt="Oumar's GitHub statistics" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumar969&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a76cff&text_color=c9d1d9&langs_count=8" alt="Most used languages" />
+
+  <br/><br/>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=oumar969&bg_color=0d1117&color=c9d1d9&line=a76cff&point=ffffff&area=true&area_color=6d3cc7&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+
 </div>
 
-###
+---
 
-<img src="https://activity-graph.herokuapp.com/graph?username=oumar969&theme=react-dark&bg_color=20232a&hide_border=true" />
+## 🤝 Let's connect
 
-###
+<div align="center">
 
-<!--
-**oumar969/Oumar969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am open to software engineering opportunities, collaboration and interesting product ideas.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://oumar969.github.io/"><img src="https://img.shields.io/badge/Portfolio-a76cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omar-a-8a2491253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:oammar198@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+  <br/><br/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6d3cc7,100:a76cff&height=100&section=footer" alt="Footer" />
+
+</div>
